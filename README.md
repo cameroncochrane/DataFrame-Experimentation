@@ -11,7 +11,7 @@ This repository is used to experiment with and learn the functionality of the Pa
 - `archive/` — CSV files extracted from the dataset used in the notebook.
 
 **Dataset:**
-The dataset used for these experiments comes from Kaggle. The original dataset link and attribution are provided inside `1.ipynb` — open the notebook to view the exact Kaggle source and licensing information.
+The dataset used for these experiments comes from Kaggle. The original dataset link: https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-dataset
 
 **Getting started:**
 1. Create and activate a Python environment (recommended).
